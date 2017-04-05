@@ -4,6 +4,7 @@
 - Open up ACT and go to `Plugins > Plugin Listing`.
 - Click the browse button and locate the folder you extracted.
 - Select `OverlayPlugin.dll` and click open.
+- Finally click `Add/Enable Plugin` and you're set!
 
 ## Troubleshooting
 
